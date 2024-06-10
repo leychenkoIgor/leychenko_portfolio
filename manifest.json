@@ -1,0 +1,35 @@
+{
+    "name": "Ihor Leichenko Portfolio | Developer",
+    "short_name": "Ihor Leichenko",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Welcome to my professional portfolio! I am a seasoned Flutter and FlutterFlow developer with over 5 years of experience creating cutting-edge mobile applications for both iOS and Android platforms. Specializing in dynamic, user-friendly, and high-performance apps, I have successfully delivered numerous projects tailored to the needs of the American market. Explore my portfolio to discover my work, including innovative app designs, robust backend integrations, and seamless user experiences. Let's collaborate to turn your app ideas into reality!",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
